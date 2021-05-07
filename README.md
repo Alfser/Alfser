@@ -42,6 +42,12 @@
   
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#11](https://github.com/flaviacomp/app-paem-db-restful/issues/11) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
+2. ❗️ Opened issue [#18](https://github.com/flaviacomp/app-paem-db-restful/issues/18) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
+3. ❗️ Opened issue [#17](https://github.com/flaviacomp/app-paem-db-restful/issues/17) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
+4. ❗️ Closed issue [#16](https://github.com/flaviacomp/app-paem-db-restful/issues/16) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
+5. ❗️ Opened issue [#16](https://github.com/flaviacomp/app-paem-db-restful/issues/16) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
+<!--END_SECTION:activity-->
 
 </details>
 
