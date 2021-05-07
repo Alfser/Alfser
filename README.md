@@ -1,6 +1,6 @@
-## I'm a Studant, Developer and Christain.
+## I'm a Studant, Developer, Christian and Almost Computer Engeneer.
 
-- 🔭 I’m currently working on developing a Webservice using Python Flak framework.
+- 🔭 I’m currently working on [PAEM Project UFOPA University- webservice](https://github.com/flaviacomp/app-paem-db-restful).
 - 🌱 I’m currently learning how to build a modern applications on AWS and also javaScript programing. 
 - 👯 I’m looking to collaborate on backend sigle projects using Node.js to strengthen my learning.
 - 🤔 I’m looking for help the best way to build secure web API.
@@ -8,11 +8,15 @@
 - 📫 2021 Goals: Finish my graduation and get my First Job as a Backend Developer. 
 - ⚡ Hobbies: I love to play popular piano, guitar and drums, especially gospel musics.
 
+---
 ### Connect with me:
 
 [<img align="left" alt="alfser | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+<br />
 
+---
 
 ### Languages and Tools:
 
@@ -23,7 +27,6 @@
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -39,7 +42,12 @@
   
 
 <!--START_SECTION:activity-->
-
+1. ❌ Reopened PR [#2695](https://github.com/webpack/webpack-cli/pull/2695) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. ❌ Closed PR [#2695](https://github.com/webpack/webpack-cli/pull/2695) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 🗣 Commented on [#2695](https://github.com/webpack/webpack-cli/issues/2695) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+4. 💪 Opened PR [#2695](https://github.com/webpack/webpack-cli/pull/2695) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+5. 🗣 Commented on [#4808](https://github.com/webpack/webpack.js.org/issues/4808) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+<!--END_SECTION:activity-->
 
 </details>
 
