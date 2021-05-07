@@ -36,9 +36,7 @@
 
 ---
 
-
-
-## Recent GitHub Activity
+:zap: Recent GitHub Activity  
 
 <!--START_SECTION:activity-->
 
