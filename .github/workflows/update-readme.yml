@@ -1,0 +1,19 @@
+name: GitHub - Activity - Readme
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: flaviacomp/app-paem-db-restful@developer
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Update profile REAMD.m to latest activities'
+          MAX_LINES: 5
