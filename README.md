@@ -42,12 +42,6 @@
   
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#2695](https://github.com/webpack/webpack-cli/pull/2695) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. ❌ Closed PR [#2695](https://github.com/webpack/webpack-cli/pull/2695) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-3. 🗣 Commented on [#2695](https://github.com/webpack/webpack-cli/issues/2695) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-4. 💪 Opened PR [#2695](https://github.com/webpack/webpack-cli/pull/2695) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 🗣 Commented on [#4808](https://github.com/webpack/webpack.js.org/issues/4808) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
-<!--END_SECTION:activity-->
 
 </details>
 
