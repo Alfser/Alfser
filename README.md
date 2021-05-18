@@ -39,11 +39,11 @@
 :zap: Recent GitHub Activity  
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/flaviacomp/app-paem-db-restful/pull/20) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
-2. 💪 Opened PR [#20](https://github.com/flaviacomp/app-paem-db-restful/pull/20) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
-3. ❗️ Closed issue [#17](https://github.com/flaviacomp/app-paem-db-restful/issues/17) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
-4. ❗️ Closed issue [#18](https://github.com/flaviacomp/app-paem-db-restful/issues/18) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
-5. ❗️ Closed issue [#8](https://github.com/flaviacomp/app-paem-db-restful/issues/8) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
+1. 🎉 Merged PR [#21](https://github.com/flaviacomp/app-paem-db-restful/pull/21) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
+2. 💪 Opened PR [#21](https://github.com/flaviacomp/app-paem-db-restful/pull/21) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
+3. ❗️ Closed issue [#7](https://github.com/flaviacomp/app-paem-db-restful/issues/7) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
+4. 🎉 Merged PR [#20](https://github.com/flaviacomp/app-paem-db-restful/pull/20) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
+5. 💪 Opened PR [#20](https://github.com/flaviacomp/app-paem-db-restful/pull/20) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
 <!--END_SECTION:activity-->
 
 
