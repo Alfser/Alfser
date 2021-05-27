@@ -1,12 +1,12 @@
 ## I'm a Studant, Developer, Christian and Almost Computer Engeneer.
 
-- 🔭 I’m currently working on [PAEM Project UFOPA University- webservice](https://github.com/flaviacomp/app-paem-db-restful).
-- 🌱 I’m currently learning how to build a modern applications on AWS and also javaScript programing. 
-- 👯 I’m looking to collaborate on backend single projects using Node.js to strengthen my learning.
+-:space_invader:I’m currently working on [PAEM Project UFOPA University- webservice](https://github.com/flaviacomp/app-paem-db-restful).
+-:alien: I’m currently learning kotlin and javaScript programing. 
+-:octocat: I’m looking to collaborate on backend single projects using Node.js to strengthen my learning.
 - 🤔 I’m looking for help the best way to build secure web API.
-- 💬 Ask me about Python programing, Adroid Java programing and mathemerical problems😄.
-- 📫 2021 Goals: Finish my graduation and get my First Job as a Backend Developer. 
-- ⚡ Hobbies: I love to play popular piano, guitar and drums, especially gospel musics.
+- 💬 Ask me about Python programing, Adroid Java/kotlin programing and mathemerical problems😄.
+-:pushpin: 2021 Goals: Finish my graduation and get my First Job as a Backend or Android Developer. 
+- ⚡ Hobbies: I love to play popular piano, guitar, drums and watch tv serie.
 
 ---
 ### Connect with me:
