@@ -39,11 +39,11 @@
 :zap: Recent GitHub Activity  
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Alfser/AppReportOff/pull/3) in [Alfser/AppReportOff](https://github.com/Alfser/AppReportOff)
-2. 💪 Opened PR [#3](https://github.com/Alfser/AppReportOff/pull/3) in [Alfser/AppReportOff](https://github.com/Alfser/AppReportOff)
-3. ❗️ Closed issue [#4](https://github.com/flaviacomp/app-paem-db-restful/issues/4) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
-4. ❗️ Closed issue [#3](https://github.com/flaviacomp/app-paem-db-restful/issues/3) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
-5. 🎉 Merged PR [#24](https://github.com/flaviacomp/app-paem-db-restful/pull/24) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
+1. 🎉 Merged PR [#1](https://github.com/Alfser/webservice-paem/pull/1) in [Alfser/webservice-paem](https://github.com/Alfser/webservice-paem)
+2. 💪 Opened PR [#1](https://github.com/Alfser/webservice-paem/pull/1) in [Alfser/webservice-paem](https://github.com/Alfser/webservice-paem)
+3. 🎉 Merged PR [#3](https://github.com/Alfser/AppReportOff/pull/3) in [Alfser/AppReportOff](https://github.com/Alfser/AppReportOff)
+4. 💪 Opened PR [#3](https://github.com/Alfser/AppReportOff/pull/3) in [Alfser/AppReportOff](https://github.com/Alfser/AppReportOff)
+5. ❗️ Closed issue [#4](https://github.com/flaviacomp/app-paem-db-restful/issues/4) in [flaviacomp/app-paem-db-restful](https://github.com/flaviacomp/app-paem-db-restful)
 <!--END_SECTION:activity-->
 
 
