@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help the best way to build secure web API.
 - 💬 Ask me about Python programing, Adroid Java/kotlin programing and mathemerical problems😄.
 - :pushpin: 2021 Goals: Finish my graduation and get my First Job as a Backend or Android Developer. 
-- ⚡ Hobbies: I love to play popular piano, guitar, drums and watch tv serie.
+- ⚡ Hobbies: I love to play popular piano, guitar, drums and watch tv series.
 
 ---
 ### Connect with me:
