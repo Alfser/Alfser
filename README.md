@@ -1,6 +1,6 @@
 ## I'm a Studant, Developer, Christian and Almost Computer Engeneer.
 
-- :space_invader:I’m currently working on [PAEM Project UFOPA University- webservice](https://github.com/flaviacomp/app-paem-db-restful).
+<!-- - :space_invader:I’m currently working on [PAEM Project UFOPA University- webservice](https://github.com/flaviacomp/app-paem-db-restful).-->
 - :alien: I’m currently learning kotlin and javaScript programing. 
 - :octocat: I’m looking to collaborate on backend single projects using Node.js to strengthen my learning.
 - 🤔 I’m looking for help the best way to build secure web API.
