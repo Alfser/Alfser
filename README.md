@@ -1,11 +1,11 @@
 ## I'm a Studant, Developer, Christian and Almost Computer Engeneer.
 
-<!-- - :space_invader:I’m currently working on [PAEM Project UFOPA University- webservice](https://github.com/flaviacomp/app-paem-db-restful).-->
+:space_invader:I’m currently working on App Anjo Startup as a Backend developer
 - :alien: I’m currently deep learning kotlin and a little javaScript programing. 
 - :octocat: I’m looking to collaborate on backend single projects using Node.js to strengthen my learning.
 - 🤔 I’m looking for help for the best way to build secure web API.
 - 💬 Ask me about Python programing, Adroid Java/kotlin programing and mathemerical problems😄.
-- :pushpin: 2021 Goals: Finish my graduation and get my First Job as a Backend or Android Developer. 
+- :pushpin: 2021 Goals: Finish my graduation, improve my dev skills and get Great job Backend or Android Developer. 
 - ⚡ Hobbies: I love to play popular piano, guitar, drums and watch tv series.
 
 ---
