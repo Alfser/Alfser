@@ -1,6 +1,6 @@
 ## I'm a Studant, Developer, Christian and Almost Computer Engeneer.
 
-- :space_invader:I’m currently working on App Anjo Startup as a Backend developer by react native frame work using TypeScript 
+- :space_invader:I’m currently working on App Anjo Startup as a Backend developer by react native framework using TypeScript 
 - :alien: I’m currently deep learning kotlin and a little javaScript programing. 
 - :octocat: I’m looking to collaborate on backend single projects using Node.js to strengthen my learning.
 - 🤔 I’m looking for help for the best way to build secure web API.
