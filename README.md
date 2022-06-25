@@ -1,4 +1,4 @@
-## I'm a Studant, Developer, Christian and Almost Computer Engeneer.
+## I'm a Developer and Computer Engeneer.
 
 - :space_invader:I’m currently working on App Anjo Startup as a Backend developer by react native framework using TypeScript 
 - :alien: I’m currently learning kotlin and javaScript programing. 
