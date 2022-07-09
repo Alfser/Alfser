@@ -5,7 +5,7 @@
 - :octocat: I’m looking to collaborate on backend single projects using Node.js to strengthen my learning.
 - 🤔 I’m looking for help for the best way to build secure web API.
 - 💬 Ask me about Python programing, Adroid Java/kotlin programing and mathemerical problems😄.
-- :pushpin: 2021 Goals: Finish my graduation, improve my dev skills and get a Great job as Backend or Android Developer. 
+- :pushpin: 2022 Goals: Finish my graduation, improve my dev skills. 
 - ⚡ Hobbies: I love to play popular piano, guitar, drums and watch tv series.
 
 ---
