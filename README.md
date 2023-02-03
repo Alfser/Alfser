@@ -1,7 +1,8 @@
 ## I'm a Developer and Computer Engeneer.
 
-- :space_invader:I’m currently working on Defensoria Pública do Pará as System Analist using stacks like Node/TypeScript and Python/Django.
-- :alien: I’m currently learning kotlin and javaScript programing. 
+- :space_invader:I’m currently working on Defensoria Pública do Pará as System Analist using stacks like Python/Django, Java/Spring Boot.
+- an also some times JavaScript and Html
+- :alien: I’m currently learning TypeScript with react native and improve my knowledge programing . 
 - :octocat: I’m looking to collaborate on backend single projects using Node.js to strengthen my learning.
 - 🤔 I’m looking for help for the best way to build secure web API.
 - 💬 Ask me about Python programing, Adroid Java/kotlin programing and mathemerical problems😄.
